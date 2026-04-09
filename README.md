@@ -12,7 +12,7 @@
 
 ---
 
-![Preview do Portfólio](./assets/preview.png)
+![Preview do Portfólio](./img/preview.png)
 
 ---
 
